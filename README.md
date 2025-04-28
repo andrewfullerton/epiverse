@@ -1,2 +1,7 @@
 # epiverse
-A meta-package providing harmonized documentation, installing, loading, and interfacing with R packages for common epidemiological analyses. 
+
+## Overview
+**epiverse** is a meta-package that provides harmonized documentation and functions for easily installing, loading, and interfacing with R packages for common epidemiological analyses. 
+
+## Status 🚧
+This project is currently in the planning stages with development expected to begin in June 2025.
